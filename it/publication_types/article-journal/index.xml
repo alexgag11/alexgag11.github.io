@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Alessandro Gagliardi</title>
+    <link>https://alexgag11.github.io/it/publication_types/article-journal/</link>
+      <atom:link href="https://alexgag11.github.io/it/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>it-it</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alexgag11.github.io/media/icon_hu_798e1238c154d9ab.png</url>
+      <title>Article-Journal</title>
+      <link>https://alexgag11.github.io/it/publication_types/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>Northern Greenland transect stacked ice cores as a proxy for winter extreme events in Europe</title>
+      <link>https://alexgag11.github.io/it/publications/gagliardi2026ice/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/it/publications/gagliardi2026ice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Removing ENSO&#39;s influence from global SST variability, with insights into the record-setting marine heatwaves of 2023-2024</title>
+      <link>https://alexgag11.github.io/it/publications/gunnarson2025enso/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/it/publications/gunnarson2025enso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface and Subsurface Biogeochemical Impacts of the 2019 Northeast Pacific Marine Heatwave</title>
+      <link>https://alexgag11.github.io/it/publications/kohlman2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/it/publications/kohlman2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibration of Arctic ice core bromine enrichment records for past sea ice reconstructions</title>
+      <link>https://alexgag11.github.io/it/publications/scoto2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/it/publications/scoto2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sea ice fluctuations in the Baffin Bay and the Labrador Sea during glacial abrupt climate changes</title>
+      <link>https://alexgag11.github.io/it/publications/scoto2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/it/publications/scoto2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Alessandro Gagliardi</title>
+    <link>https://alexgag11.github.io/publication_types/paper-conference/</link>
+      <atom:link href="https://alexgag11.github.io/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alexgag11.github.io/media/icon_hu_798e1238c154d9ab.png</url>
+      <title>Paper-Conference</title>
+      <link>https://alexgag11.github.io/publication_types/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>Changes in large-scale circulation reshapes atmospheric river activity in northern Europe</title>
+      <link>https://alexgag11.github.io/publications/gagliardi2026iarc/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/publications/gagliardi2026iarc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imprint of atmospheric rivers on stable-oxygen isotopes ratio in Greenland ice cores: an assessment</title>
+      <link>https://alexgag11.github.io/publications/gagliardi2026egu/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/publications/gagliardi2026egu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two centuries of Greenland Sea ice dynamics and export from the SouthEast Dome II ice core</title>
+      <link>https://alexgag11.github.io/publications/biscaro2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/publications/biscaro2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel method for sea ice reconstructions using satellite calibration of bromine enrichment records in Arctic ice cores</title>
+      <link>https://alexgag11.github.io/publications/scoto2025egu/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/publications/scoto2025egu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greenland ice cores as proxy for European extremes</title>
+      <link>https://alexgag11.github.io/publications/gagliardi2025egu/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/publications/gagliardi2025egu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness issues in linear-circular regression models</title>
+      <link>https://alexgag11.github.io/publications/agostinelli2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/publications/agostinelli2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

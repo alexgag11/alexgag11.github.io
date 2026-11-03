@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Alessandro Gagliardi</title>
+    <link>https://alexgag11.github.io/it/events/</link>
+      <atom:link href="https://alexgag11.github.io/it/events/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>it-it</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alexgag11.github.io/media/icon_hu_798e1238c154d9ab.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://alexgag11.github.io/it/events/</link>
+    </image>
+    
+    <item>
+      <title>Changes in large-scale circulation reshapes atmospheric river activity in northern Europe</title>
+      <link>https://alexgag11.github.io/it/events/iarc2026/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/it/events/iarc2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imprint of atmospheric rivers on stable-oxygen isotopes ratio in Greenland ice cores</title>
+      <link>https://alexgag11.github.io/it/events/egu2026/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/it/events/egu2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greenland ice cores as proxy for European extremes</title>
+      <link>https://alexgag11.github.io/it/events/egu2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/it/events/egu2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
