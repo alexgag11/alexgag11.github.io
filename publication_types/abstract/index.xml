@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abstract | Alessandro Gagliardi</title>
+    <link>https://alexgag11.github.io/publication_types/abstract/</link>
+      <atom:link href="https://alexgag11.github.io/publication_types/abstract/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abstract</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alexgag11.github.io/media/icon_hu_798e1238c154d9ab.png</url>
+      <title>Abstract</title>
+      <link>https://alexgag11.github.io/publication_types/abstract/</link>
+    </image>
+    
+    <item>
+      <title>Two centuries of Greenland Sea ice dynamics and export from the SouthEast Dome II ice core</title>
+      <link>https://alexgag11.github.io/publications/biscaro2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alexgag11.github.io/publications/biscaro2026/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Since the late 1970s, satellite observations have shown a persistent decline in Arctic sea ice extent, with climate models projecting a nearly ice-free Arctic Ocean during summer by the half of the twenty-first century. To extend direct observational records, Arctic sea ice variability is commonly reconstructed using several biogeochemical proxies preserved in natural paleoarchives, including ice cores, marine sediments, tree rings, and lake deposits. Among sea ice tracers, bromine enrichment (Brenr) in polar ice cores - defined relative to the seawater bromine-to- sodium mass ratio - has been calibrated and statistically validated as a proxy for past newly-formed, first-year sea ice (FYSI) fluctuations. Here we present an annually resolved FYSI reconstruction in the Southern Greenland Sea (i.e., the Irminger Sea), derived from the high-resolution Brenr record from the SouthEast Dome II ice core (SED II, 67°19’17’’ N, 36°47’03’’ W, 3,161 m a.s.l., Greenland Ice Sheet), employing an autoregressive moving average model. The Brenr signal exhibits strong sensitivity to regional FYSI dynamics, aligning well with previously historical and model-based records. Additionally, we highlight a connection between the reconstructed Irminger Sea FYSI variability and independent estimates of the sea ice export from the high Arctic into the North Atlantic through the Fram Strait. This finding in turn suggests that the Brenr record preserved in the SED II core is able to capture either local FYSI conditions and broader Arctic-to-Atlantic sea ice dynamics highlighting the potential use of southeastern Greenland ice cores to provide reconstructions of Arctic sea ice export beyond the instrumental era.&lt;/p&gt;
+&lt;p&gt;
+  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
+    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
