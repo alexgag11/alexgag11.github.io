@@ -51,11 +51,166 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;il-mio-ruolo&#34;&gt;Il mio ruolo&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Gruppo di oceanografia fisica: esecuzione ed elaborazione di misure CTD, SVP e ADCP&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- Racconta qui la tua esperienza a bordo. --&gt;
+&lt;h2 id=&#34;post&#34;&gt;Post&lt;/h2&gt;
+&lt;p&gt;Un&amp;rsquo;esperienza straordinaria nel Mare del Nord e a Helgoland, a bordo della nave da ricerca Heincke, ad aprile 2024.&lt;/p&gt;
+&lt;p&gt;Ho avuto la possibilità di unirmi al gruppo di oceanografia fisica. Ho eseguito ed elaborato misure di conducibilità, temperatura e profondità (CTD), di velocità del suono (SVP, Sound Velocity Profiler) e di corrente con l&amp;rsquo;ADCP (Acoustic Doppler Current Profiler).&lt;/p&gt;
+&lt;p&gt;Grazie a @awiexpedition e alla graduate school POLMAR, insieme a tutto l&amp;rsquo;equipaggio.&lt;/p&gt;
+
+
+&lt;div class=&#34;photo-gallery-wrap&#34;&gt;
+&lt;div class=&#34;photo-gallery&#34;&gt;
+  
+    
+      
+      
+        
+          
+          
+          
+          
+          
+          &lt;a href=&#34;https://alexgag11.github.io/blog/he638-1-heincke-training/gallery/107726_hu_3664c0cb54ad64d0.webp&#34; data-caption=&#34;&#34;
+             style=&#34;flex: 0.75 1 calc(0.75 * var(--gallery-row));&#34;&gt;
+            &lt;img src=&#34;https://alexgag11.github.io/blog/he638-1-heincke-training/gallery/107726_hu_36fc59120eeb7b0.webp&#34; width=&#34;300&#34; height=&#34;400&#34;
+                 alt=&#34;&#34; loading=&#34;lazy&#34;&gt;
+          &lt;/a&gt;
+        
+      
+    
+  
+    
+      
+      
+        
+          
+          
+          
+          
+          
+          &lt;a href=&#34;https://alexgag11.github.io/blog/he638-1-heincke-training/gallery/107730_hu_3346186c0bc3ed2b.webp&#34; data-caption=&#34;&#34;
+             style=&#34;flex: 0.75 1 calc(0.75 * var(--gallery-row));&#34;&gt;
+            &lt;img src=&#34;https://alexgag11.github.io/blog/he638-1-heincke-training/gallery/107730_hu_6ce50c47450b87fa.webp&#34; width=&#34;300&#34; height=&#34;400&#34;
+                 alt=&#34;&#34; loading=&#34;lazy&#34;&gt;
+          &lt;/a&gt;
+        
+      
+    
+  
+    
+      
+      
+        
+          
+          
+          
+          
+          
+          &lt;a href=&#34;https://alexgag11.github.io/blog/he638-1-heincke-training/gallery/107731_hu_3762ae166b0120cb.webp&#34; data-caption=&#34;&#34;
+             style=&#34;flex: 1.3325 1 calc(1.3325 * var(--gallery-row));&#34;&gt;
+            &lt;img src=&#34;https://alexgag11.github.io/blog/he638-1-heincke-training/gallery/107731_hu_629fe521c7bc4a3d.webp&#34; width=&#34;533&#34; height=&#34;400&#34;
+                 alt=&#34;&#34; loading=&#34;lazy&#34;&gt;
+          &lt;/a&gt;
+        
+      
+    
+  
+    
+      
+      
+        
+          
+          
+          
+          
+          
+          &lt;a href=&#34;https://alexgag11.github.io/blog/he638-1-heincke-training/gallery/107732_hu_c99447014f203669.webp&#34; data-caption=&#34;&#34;
+             style=&#34;flex: 0.75 1 calc(0.75 * var(--gallery-row));&#34;&gt;
+            &lt;img src=&#34;https://alexgag11.github.io/blog/he638-1-heincke-training/gallery/107732_hu_9d00f45ffde2bece.webp&#34; width=&#34;300&#34; height=&#34;400&#34;
+                 alt=&#34;&#34; loading=&#34;lazy&#34;&gt;
+          &lt;/a&gt;
+        
+      
+    
+  
+    
+      
+      
+        
+          
+          
+          
+          
+          
+          &lt;a href=&#34;https://alexgag11.github.io/blog/he638-1-heincke-training/gallery/107734_hu_956f175d29beefdf.webp&#34; data-caption=&#34;&#34;
+             style=&#34;flex: 0.75 1 calc(0.75 * var(--gallery-row));&#34;&gt;
+            &lt;img src=&#34;https://alexgag11.github.io/blog/he638-1-heincke-training/gallery/107734_hu_80565bf63a6fb64b.webp&#34; width=&#34;300&#34; height=&#34;400&#34;
+                 alt=&#34;&#34; loading=&#34;lazy&#34;&gt;
+          &lt;/a&gt;
+        
+      
+    
+  
+&lt;/div&gt;
+&lt;dialog class=&#34;photo-viewer&#34; aria-label=&#34;Photo viewer&#34;&gt;
+  &lt;button class=&#34;pv-close&#34; aria-label=&#34;Close&#34;&gt;&amp;times;&lt;/button&gt;
+  &lt;button class=&#34;pv-prev&#34; aria-label=&#34;Previous photo&#34;&gt;&amp;#8249;&lt;/button&gt;
+  &lt;figure&gt;
+    &lt;img alt=&#34;&#34;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;button class=&#34;pv-next&#34; aria-label=&#34;Next photo&#34;&gt;&amp;#8250;&lt;/button&gt;
+&lt;/dialog&gt;
+&lt;/div&gt;
+&lt;script&gt;
+(() =&gt; {
+  document.querySelectorAll(&#39;.photo-gallery-wrap:not([data-ready])&#39;).forEach(wrap =&gt; {
+    wrap.dataset.ready = &#39;&#39;;
+    const links = [...wrap.querySelectorAll(&#39;.photo-gallery a&#39;)];
+    const viewer = wrap.querySelector(&#39;.photo-viewer&#39;);
+    const img = viewer.querySelector(&#39;img&#39;);
+    const caption = viewer.querySelector(&#39;figcaption&#39;);
+    let index = 0;
+
+    const show = i =&gt; {
+      index = (i + links.length) % links.length;
+      const link = links[index];
+      img.src = link.href;
+      img.alt = link.dataset.caption;
+      const text = link.dataset.caption;
+      caption.textContent = (text ? text + &#39; · &#39; : &#39;&#39;) + (index + 1) + &#39; / &#39; + links.length;
+      
+      new Image().src = links[(index + 1) % links.length].href;
+    };
+
+    links.forEach((link, i) =&gt; link.addEventListener(&#39;click&#39;, e =&gt; {
+      e.preventDefault();
+      show(i);
+      viewer.showModal();
+    }));
+
+    viewer.querySelector(&#39;.pv-prev&#39;).addEventListener(&#39;click&#39;, () =&gt; show(index - 1));
+    viewer.querySelector(&#39;.pv-next&#39;).addEventListener(&#39;click&#39;, () =&gt; show(index + 1));
+    viewer.querySelector(&#39;.pv-close&#39;).addEventListener(&#39;click&#39;, () =&gt; viewer.close());
+    
+    viewer.addEventListener(&#39;click&#39;, e =&gt; { if (e.target === viewer || e.target.tagName === &#39;FIGURE&#39;) viewer.close(); });
+    viewer.addEventListener(&#39;keydown&#39;, e =&gt; {
+      if (e.key === &#39;ArrowLeft&#39;) show(index - 1);
+      if (e.key === &#39;ArrowRight&#39;) show(index + 1);
+    });
+
+    
+    let startX = null;
+    viewer.addEventListener(&#39;touchstart&#39;, e =&gt; { startX = e.touches[0].clientX; }, { passive: true });
+    viewer.addEventListener(&#39;touchend&#39;, e =&gt; {
+      if (startX === null) return;
+      const dx = e.changedTouches[0].clientX - startX;
+      if (Math.abs(dx) &gt; 50) show(index + (dx &lt; 0 ? 1 : -1));
+      startX = null;
+    });
+  });
+})();
+&lt;/script&gt;
+
 </description>
     </item>
     
